@@ -5,8 +5,8 @@ BinocularsLLM, Fusing Binoculars’ Insight with the Proficiency of Large Langua
 </div>
 
  <div align="center">
-<b>Ehsan Tavan</b><sup>1∗</sup>,
-<b>Maryam Najafi</b><sup>2∗</sup>,
+<b>Ehsan Tavan</b><sup>1</sup>,
+<b>Maryam Najafi</b><sup>1, 2</sup>
 </div>
 
 <div align="center">
@@ -155,3 +155,15 @@ tira-run \
     ├── Dockerfile                      # Docker configuration file for containerizing the framework
     ├── README.md                       # Documentation and usage instructions
     └── requirements.txt                # List of dependencies required to run the framework
+
+    
+
+## Cite our work
+
+```
+@article{tavan2024marsan,
+  title={MarSan at PAN: BinocularsLLM, Fusing Binoculars’ Insight with the Proficiency of Large Language Models for Machine-Generated Text Detection},
+  author={Tavan, Ehsan and Najafi, Maryam},
+  year={2024}
+}
+```
